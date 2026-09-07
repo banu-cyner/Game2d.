@@ -1,4 +1,4 @@
-const SCRIPT_URL = "URL_WEB_APP_GOOGLE_SCRIPT_ANDA";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyMtI9HzgrKI6QRxl9l41B8XNRgEORyZA08IZn8HhWQ-MycrwKoLDlkm2vY4EoCWF6i/exec";
 
 // DOM Elements
 const menuScreen = document.getElementById("menu-screen");
